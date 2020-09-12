@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using POO3A10.BLL;
-using POO3A10.DAL;
-using POO3A10.DTO;
+using POO3A196.BLL;
+using POO3A196.DAL;
+using POO3A196.DTO;
 
 namespace POO3A196
 {

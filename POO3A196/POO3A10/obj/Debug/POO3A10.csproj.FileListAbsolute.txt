@@ -1,0 +1,5 @@
+C:\Users\enzic\Desktop\disgraça OO\POO3A10\POO3A10\obj\Debug\POO3A10.csprojAssemblyReference.cache
+C:\Users\enzic\Desktop\disgraça OO\POO3A10\POO3A10\obj\Debug\POO3A10.musica.resources
+C:\Users\enzic\Desktop\disgraça OO\POO3A10\POO3A10\obj\Debug\POO3A10.Properties.Resources.resources
+C:\Users\enzic\Desktop\disgraça OO\POO3A10\POO3A10\obj\Debug\POO3A10.csproj.GenerateResource.cache
+C:\Users\enzic\Desktop\disgraça OO\POO3A10\POO3A10\obj\Debug\POO3A10.csproj.CoreCompileInputs.cache

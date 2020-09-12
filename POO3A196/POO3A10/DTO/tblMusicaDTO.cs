@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POO3A10.DTO
+namespace POO3A196.DTO
 {
     class tblMusicaDTO
     {

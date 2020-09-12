@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace POO3A10.Properties
+namespace POO3A196.Properties
 {
 
 

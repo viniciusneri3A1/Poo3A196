@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 
-namespace POO3A10.DAL
+namespace POO3A196.DAL
 {
     class DALBD
     {

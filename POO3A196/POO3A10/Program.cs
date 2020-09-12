@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace POO3A10
+namespace POO3A196
 {
     static class Program
     {

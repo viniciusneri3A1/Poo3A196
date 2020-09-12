@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{44A23522-72E4-4E0B-A28E-607892638F64}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>POO3A10</RootNamespace>
-    <AssemblyName>POO3A10</AssemblyName>
+    <RootNamespace>POO3A169</RootNamespace>
+    <AssemblyName>POO3A169</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
